@@ -4,7 +4,7 @@ Popups can ruin your site's user experience if implemented incorrectly but can s
 
 ## Tutorial
 
-For detailed instructions, view Solodev's [Adding a Cookie Based Form Popup to your Homepage](https://www.solodev.com/blog/web-design/code-examples/adding-a-form-popup-to-your-homepage.stml) article.
+For detailed instructions, view Solodev's [Adding a Cookie Based Form Popup to your Homepage](https://www.solodev.com/blog/web-design/adding-a-cookie-based-form-popup.stml) article.
 
 ## Demo
 

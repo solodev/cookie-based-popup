@@ -1,0 +1,51 @@
+#active-popup {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+#popup-container {
+  //margin: 10px 10px 10px 10px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  width: 990px;
+  margin: 0 auto;
+}
+
+.modal-content {
+  background-color: rgba(38, 38, 40, 0.92);
+  color: #fff;
+  padding: 20px 40px;
+}
+
+.modal-content input {
+  height: 57px;
+  border-radius: 0px;
+}
+
+.modal-content .btn-primary {
+  width: 100%;
+  background-color: #ef9919;
+  border: 0px;
+}
+
+.modal-content .btn-primary:hover {
+  background-color: #0073b7;
+  border: 0px;
+}
+
+.modal-content .logorow {
+  text-align: center;
+}
+
+.close {
+  margin-right: 10px;
+  margin-top: 5px;
+  color: #fff;
+  opacity: .8;
+}
+
+.close:hover {
+  color: #efefef;
+}
